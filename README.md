@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://gguruji1985.github.io)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![Cisco](https://img.shields.io/badge/Cisco_IoT_Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#)
-[![Apple Academy](https://img.shields.io/badge/Apple_Developer_Academy-000000?style=flat-square&logo=apple&logoColor=white)](#)
 
 </div>
 
